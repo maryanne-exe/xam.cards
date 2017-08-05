@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Xam.cards", "Xam.cards\Xam.cards.shproj", "{C8C1F583-AEA7-41FA-99FC-7EFEFA9D0F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xam.cards.iOS", "iOS\Xam.cards.iOS.csproj", "{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}.Release|iPhone.Build.0 = Release|iPhone
+		{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AB4E1D6B-53A6-4BDA-ABB6-1E8327E6A491}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
