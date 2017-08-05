@@ -13,3 +13,6 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+
+# File system
+.DS_Store
